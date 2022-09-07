@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**-** I'm trying to code in Java and Html for about a year  
-**-** Country: Ukraine  
-**-** Contact me on [Telegram](https://t.me/asphyxia1337) ^.^
+**-** 🔭 I'm trying to code in Java and Html for about a year  
+**-** 🌱 Country: Ukraine  
+**-** 📫 Contact me on [Telegram](https://t.me/asphyxia1337) ^.^
 
 ![Profile views](https://gpvc.arturio.dev/asphyxia1337)  
