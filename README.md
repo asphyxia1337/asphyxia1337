@@ -1,4 +1,3 @@
-### Hello 👋
 
 <!--
 **asphyxia1337/asphyxia1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**-** 🔭 I'm trying to code in Java and Html for about a year  
-**-** 🌱 Country: Ukraine  
-**-** 📫 Contact me on [Telegram](https://t.me/asphyxia1337) ^.^
+**-** 📫 Contact me on [Telegram](https://t.me/asphyxia1337)
 
 ![Profile views](https://gpvc.arturio.dev/asphyxia1337)  
